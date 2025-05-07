@@ -1,8 +1,6 @@
-# Dopefolio 🔥
+# Sumit Shete 🔥
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
-
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+## A Blazing Fast Multipage Portfolio Template for Developers 
 
 <div align="center">
   <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
@@ -16,11 +14,7 @@
 
 <br/>
 
-## ( Update ): Project Achievement 🏆 
-
-**Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
-
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
+## ( Update ): Project Achievement
 
 <br/>
 
@@ -44,21 +38,6 @@
 <br/>
 <br/>
 
-## Test the template with different colors on the playground link 🚀
-
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
-
-<div align="center">
-  <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
-  <br>
-</div>
-
-<br/>
-
-----
-
-<br/>
-
 ## Technologies used 🛠️
 
 - **HTML** 🚀
@@ -76,10 +55,10 @@ From your command line, first clone Dopefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
+$ git clone https://github.com/Sumit7653/PORTFOLIO
 
 # Go into the repository
-$ cd dopefolio
+$ cd PORTPOLIO
 
 # Remove current origin repository
 $ git remote remove origin
@@ -762,12 +741,12 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Instagram](https://instagram.com/rammcodes_)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
+- **Sumit shete** - **[Linkedin](https://www.linkedin.com/in/sumit-shete-6325372a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**, **[Instagram](https://www.instagram.com/__sumeet_?igsh=Mm9tb2FwdnFydGln_)**,  
 
 <br>
 
 #### Note: 
-I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
+I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/sumit-shete-6325372a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** or my email id **shetesumit87@gmail.com** 🙌
 
 
 <br>
