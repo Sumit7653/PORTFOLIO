@@ -104,8 +104,7 @@ Go to `sass/abstracts/_variables.scss` and change the value of this sass variabl
 // Default value
 $themeClrPrimary: #0062b9;
 ```
-
-**NOTE**: I highly recommend to checkout the [Dopefolio Playground Link](https://dopefolio-playground.netlify.app) to test the template with different colors and see which color do you like the most.
+ to test the template with different colors and see which color do you like the most.
 
 <br/>
 
